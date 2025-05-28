@@ -36,7 +36,7 @@ crypto-promo-website/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/crypto-promo-website
+git clone https://github.com/IzziVanSatoru/CryptoPromo.git
 cd crypto-promo-website
 npm install
 npm run dev
